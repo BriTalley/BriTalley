@@ -9,7 +9,6 @@
 
 <p align="center">
 <a href= "Portfolio"><img width="35"src="https://img.icons8.com/?size=100&id=79062&format=png&color=000000"/></a>
-<a href= "Twitter"><img width="25" src="https://img.icons8.com/?size=100&id=XCNhMfBsqfX1&format=png&color=000000"/></a>
 <a href= "Linkdein"><img width="35" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000"/></a>
 </p>
 

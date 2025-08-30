@@ -1,16 +1,22 @@
-## Hi there 👋
+<h3 align="center"><samp> ⋆˖⁺‧₊☽ Hi there!  Welcome to my Github, I am Brie a senior in computer science at FIU. I love art and all things tech ☾₊‧⁺˖⋆</samp></h3>
 
-<!--
-**BriTalley/BriTalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center"><samp>✩ HTML ✩ CSS/SCSS ✩ Javascript ✩ Python ✩ Java ✩ C ✩ </samp></h4>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img width="250" src="https://i.gifer.com/Z5cP.gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+<a href= "Portfolio"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+
+<a href= "Twitter"><img width="25" src="https://img.icons8.com/?size=100&id=z6gJ8gyjaapn&format=png&color=000000"/></a>
+
+<a href= "Linkdein"><img width="30" src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000"/></a>
+</p>
+
+<p align="center"><samp>
+Check out my artwork
+  </samp>
+</p>
+

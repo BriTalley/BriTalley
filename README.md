@@ -7,14 +7,6 @@
 </p>
 
 
-<p align="center">
-<a href= "Portfolio"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-
-<a href= "Twitter"><img width="25" src="https://img.icons8.com/?size=100&id=z6gJ8gyjaapn&format=png&color=000000"/></a>
-
-<a href= "Linkdein"><img width="30" src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000"/></a>
-</p>
-
 <p align="center"><samp>
 Check out my artwork
   </samp>

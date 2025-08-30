@@ -13,7 +13,5 @@
 
 <p align="center"><samp>
 Check out my artwork</samp>
-<p align="center">
-<a href="Link"><img width="30"src="https://img.icons8.com/?size=100&id=48181&format=png&color=000000"/></a>
 <h3 align="center">⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆</h3>  
 </p>

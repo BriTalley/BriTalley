@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href= "Portfolio"><img width="30"src="https://img.icons8.com/?size=100&id=79062&format=png&color=000000"/></a>
-<a href= "www.linkedin.com/in/brianna-talley-9b6112195"><img width="30" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000"/></a>
+<a href= "https://www.linkedin.com/in/brianna-talley-9b6112195"><img width="30" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000"/></a>
 </p>
 
 <p align="center"><samp>

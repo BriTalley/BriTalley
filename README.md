@@ -11,7 +11,6 @@
 <a href= "https://www.linkedin.com/in/brianna-talley-9b6112195"><img width="30" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000"/></a>
 </p>
 
-<p align="center"><samp>
-Check out my artwork</samp>
+<p align="center"><samp></samp>
 <h3 align="center">⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆</h3>  
 </p>
